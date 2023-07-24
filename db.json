@@ -1,0 +1,53 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Ms.Dolly Singh",
+            "email":"dollysingh@gmail.com",
+            "profile":"img/dolly.jpg",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":2,
+            "name":"Mr.Avatar Singh",
+            "email":"dollysingh@gmail.com",
+            "profile":"img/a.jpg",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":3,
+            "name":"Ms.Himani Singh",
+            "email":"himanisingh@gmail.com",
+            "profile":"img/car.jpg",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":4,
+            "name":"Ms.sunny Singh",
+            "email":"sunnysingh@gmail.com",
+            "profile":"img/black.jpg",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":5,
+            "name":"Ms.Nikki Singh",
+            "email":"nikkisingh@gmail.com",
+            "profile":"img/y.jpg",
+            "status":"Active",
+            "role":"Admin"
+        },
+        {
+            "id":6,
+            "name":"Ms.Rohan Singh",
+            "email":"rohansingh@gmail.com",
+            "profile":"img/pana.jpg",
+            "status":"Active",
+            "role":"Admin"
+        }
+
+    ]
+}
